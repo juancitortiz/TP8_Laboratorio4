@@ -1,0 +1,14 @@
+<template>
+  <div class="home" style="text-align: left;">
+    <p>Musical  Hendrix  es  una  tienda  de  instrumentos  musicales  con  ya  más  de  15  años  
+      de  experiencia.  Tenemos  el conocimiento y la capacidad como para informarte acerca de las 
+      mejores elecciones para tu compra musical.</p>
+  </div>
+</template>
+
+<style scoped>
+    p {
+      font-size: x-large;
+      padding: 20px;
+    }
+</style>
